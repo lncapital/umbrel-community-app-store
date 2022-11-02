@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: torq
+id: lncapital-torq
 category: Lightning Node Management
 name: Torq
 version: "0.9.1"
