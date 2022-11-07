@@ -6,7 +6,7 @@ services:
       APP_HOST: $APP_TORQ_IP
       APP_PORT: $APP_TORQ_PORT
   torq:
-    image: "lncapital/torq:0.9.1"
+    image: "lncapital/torq:0.9.2"
     container_name: "torq"
     user: "1000:1000"
     restart: on-failure
