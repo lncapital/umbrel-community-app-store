@@ -2,11 +2,11 @@ manifestVersion: 1
 id: lncapital-torq
 category: Lightning Node Management
 name: Torq
-version: "0.9.1"
+version: "0.9.2"
 tagline: Torq is a capital management tool for routing nodes on the lightning network
 icon: https://raw.githubusercontent.com/lncapital/torq/main/web/public/safari-pinned-tab.svg
 description: >-
-  Features:
+  Features
   - Channel and Channel group inspection
   - See the channel balance (inbound/outbound capacity) over time
   - Advanced charts and visualizations of aggregated forwarding statistics
@@ -23,12 +23,12 @@ repo: https://github.com/lncapital/torq
 support: https://github.com/lncapital/torq/issues/new
 port: 7028
 gallery:
-  - https://github.com/lncapital/torq/raw/main/forwards-table.png
-  - https://github.com/lncapital/torq/raw/main/forwards-summary.png
-  - https://github.com/lncapital/torq/raw/main/Torq-Events.png
-  - https://github.com/lncapital/torq/raw/main/Torq-Flow.png
-  - https://github.com/lncapital/torq/raw/main/balance-graph.png
-  - https://github.com/lncapital/torq/raw/main/payments.png
+  - https://github.com/lncapital/torq/raw/main/docs/images/forwards-table.png
+  - https://github.com/lncapital/torq/raw/main/docs/images/forwards-summary.png
+  - https://github.com/lncapital/torq/raw/main/docs/images/Torq-Events.png
+  - https://github.com/lncapital/torq/raw/main/docs/images/Torq-Flow.png
+  - https://github.com/lncapital/torq/raw/main/docs/images/balance-graph.png
+  - https://github.com/lncapital/torq/raw/main/docs/images/payments.png
 releaseNotes: >-
   Support for arm architecture to run on Raspberry Pi
 path: ""
