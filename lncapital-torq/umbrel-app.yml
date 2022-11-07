@@ -4,7 +4,7 @@ category: Lightning Node Management
 name: Torq
 version: "0.9.2"
 tagline: Torq is a capital management tool for routing nodes on the lightning network
-icon: https://raw.githubusercontent.com/lncapital/torq/main/web/public/safari-pinned-tab.svg
+icon: https://raw.githubusercontent.com/lncapital/torq/main/docs/images/umbrel/torq-symbol-umbrel.svg
 description: >-
   Features
   - Channel and Channel group inspection
