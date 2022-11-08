@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: lncapital-torq-v0.9.3
+id: lncapital-torq-v093
 category: Lightning Node Management
 name: Torq 0.9.3
 version: "0.9.3"
@@ -21,7 +21,7 @@ dependencies:
   - lightning
 repo: https://github.com/lncapital/torq
 support: https://github.com/lncapital/torq/issues/new
-port: 7028
+port: 7029
 gallery:
   - https://github.com/lncapital/torq/raw/main/docs/images/forwards-table.png
   - https://github.com/lncapital/torq/raw/main/docs/images/forwards-summary.png
