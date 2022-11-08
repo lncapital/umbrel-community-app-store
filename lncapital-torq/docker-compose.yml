@@ -7,7 +7,6 @@ services:
       APP_PORT: $APP_TORQ_PORT
   torq:
     image: "lncapital/torq:0.10.0"
-    container_name: "torq"
     user: "1000:1000"
     restart: on-failure
     stop_grace_period: 1m
